@@ -1,8 +1,8 @@
 # Plaintext
 - CISSP Glossary
- - "The message in its natural format has not been turned into a secret"
- - ChatGPT = ข้อความในรูปแบบธรรมชาติยังไม่ได้ถูกเปลี่ยนให้เป็นความลับ 
- - Gemini = ข้อความในรูปแบบปกติของมันยังไม่ได้ถูกเปลี่ยนเป็นความลับ
+  - "The message in its natural format has not been turned into a secret"
+  - ChatGPT = ข้อความในรูปแบบธรรมชาติยังไม่ได้ถูกเปลี่ยนให้เป็นความลับ 
+  - Gemini = ข้อความในรูปแบบปกติของมันยังไม่ได้ถูกเปลี่ยนเป็นความลับ
 
 - NIST
   - "Unencrypted information that may be input to an encryption operation."
