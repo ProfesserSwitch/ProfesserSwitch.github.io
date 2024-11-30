@@ -1,13 +1,15 @@
 # Plaintext
 - CISSP Glossary
-  - "The message in its natural format has not been turned into a secret"
+  - ความหมาย
+    - "The message in its natural format has not been turned into a secret"
   - ChatGPT
     - ข้อความในรูปแบบธรรมชาติยังไม่ได้ถูกเปลี่ยนให้เป็นความลับ 
   - Gemini
     - ข้อความในรูปแบบปกติของมันยังไม่ได้ถูกเปลี่ยนเป็นความลับ
 
 - NIST
-  - "Unencrypted information that may be input to an encryption operation."
+  - ความหมาย
+    - "Unencrypted information that may be input to an encryption operation."
   - ChatGPT
     - ข้อมูลที่ไม่ได้เข้ารหัสซึ่งอาจถูกนำไปใช้เป็นข้อมูลป้อนเข้าสำหรับกระบวนการเข้ารหัส
   - Gemini
@@ -18,3 +20,5 @@
 - Sample in Daily life
   1. อย่าเก็บรหัสผ่านของผู้ใช้ในรูปแบบข้อความธรรมดา (plaintext) เพราะอาจถูกแฮกง่าย ควรเข้ารหัสก่อนจัดเก็บ
   2. ถ้าส่งอีเมลในรูปแบบข้อความธรรมดา (plaintext) ข้อความจะไม่มีการจัดรูปแบบพิเศษ เช่น ตัวหนา ตัวเอียง หรือสี
+
+ URL : 
