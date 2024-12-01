@@ -3,11 +3,11 @@
 This is a sample page created for demonstration purposes.
 
 ## My GitHub Page URL:
-[Visit my GitHub Page](https://<your-username>.github.io) 🎉
+[Visit my GitHub Page](https://professerswitch.github.io/6530250026.github.io/) 🎉
 
 ---
 
-## Insert Image:
+## รูปภาพปลากรอบ:
 ![oak](image.jpg)
 
 ---
