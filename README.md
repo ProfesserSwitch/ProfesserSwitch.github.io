@@ -7,7 +7,7 @@ This is a sample page created for demonstration purposes.
 
 ---
 
-## รูปภาพปลากรอบ:
+## Insert Image:
 ![oak](image.jpg)
 
 ---
