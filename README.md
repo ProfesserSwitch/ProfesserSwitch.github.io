@@ -1,10 +1,5 @@
 # Welcome to My GitHub Page!
 
-This is a sample page created for demonstration purposes.
-
----
-
-## Insert Image:
 ![oak](image.jpg)
 
 ---
