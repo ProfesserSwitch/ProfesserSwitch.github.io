@@ -1,2 +1,23 @@
-# kiadtiyod hongklin
+# Welcome to My GitHub Page!
+
+This is a sample page created for demonstration purposes.
+
+## My GitHub Page URL:
+[Visit my GitHub Page](https://<your-username>.github.io) 🎉
+
+---
+
+## Insert Image:
 ![oak](image.jpg)
+
+---
+
+## Information using bullets:
+- My favorite game is Pokemon.
+- My hobby is create game.
+- My future work is Programmer.
+
+---
+
+## Theme:
+This page uses the **Minima** theme, which is simple and elegant for creating content-based websites.
