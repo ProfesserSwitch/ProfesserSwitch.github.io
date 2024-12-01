@@ -1,2 +1,2 @@
 # kiadtiyod hongklin
-- ![oak](image.jpg)
+![oak](image.jpg)
