@@ -2,9 +2,6 @@
 
 This is a sample page created for demonstration purposes.
 
-## My GitHub Page URL:
-https://professerswitch.github.io/6530250026.github.io/ 🎉
-
 ---
 
 ## Insert Image:
@@ -13,11 +10,11 @@ https://professerswitch.github.io/6530250026.github.io/ 🎉
 ---
 
 ## Information using bullets:
-- My favorite game is Pokemon.
-- My hobby is create game.
-- My future work is Programmer.
+- Name: Kiadtiyod Hongklin
+- Nickname: Oak
+- Hobby: Create game
 
 ---
 
 ## Theme:
-This page uses the **Minima** theme, which is simple and elegant for creating content-based websites.
+This page uses the **jekyll** theme, which is simple and elegant for creating content-based websites.
