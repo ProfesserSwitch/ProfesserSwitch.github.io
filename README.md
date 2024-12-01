@@ -2,9 +2,6 @@
 
 This is a sample page created for demonstration purposes.
 
-## My GitHub Page URL:
-[https://professerswitch.github.io/6530250026.github.io/](https://professerswitch.github.io/6530250026.github.io/) 🎉
-
 ---
 
 ## Insert Image:
@@ -21,3 +18,8 @@ This is a sample page created for demonstration purposes.
 
 ## Theme:
 This page uses the **jekyll** theme, which is simple and elegant for creating content-based websites.
+
+---
+
+## My GitHub Page URL:
+[https://professerswitch.github.io/6530250026.github.io/](https://professerswitch.github.io/6530250026.github.io/) 🎉
