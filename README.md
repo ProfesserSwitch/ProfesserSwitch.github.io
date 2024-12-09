@@ -1,6 +1,6 @@
 # 🤖 Welcome to My GitHub Page!
 
-![oak](image.jpg)
+![oak](6530250026/image.jpg)
 
 ---
 
