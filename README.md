@@ -27,4 +27,4 @@ This page uses the **jekyll** theme, which is simple and elegant for creating co
 ---
 
 ## My GitHub Page URL:
-[https://professerswitch.github.io/6530250026.github.io/](https://professerswitch.github.io/6530250026.github.io/) 🎉
+[https://professerswitch.github.io/](https://professerswitch.github.io/) 🎉
