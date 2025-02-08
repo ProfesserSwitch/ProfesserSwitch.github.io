@@ -4,7 +4,7 @@
 
 ## 🚪Trio Door Lock
 
-* locattion : หอพัก The Room Residence
+* location : หอพัก The Room Residence
 * Type of SecurityControl : Physical Control
 * Control Function : Preventative
 
