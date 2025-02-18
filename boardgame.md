@@ -15,7 +15,7 @@
 
 
 **Target Audience 👩🏻‍💼**  
-ป้าแม้บ้านรักษาความสะอาด
+ป้าแม้บ้าน รักษาความสะอาด
 
 
 **Purpose of the activity 🎯**  
@@ -29,16 +29,12 @@
 
 ![Group_Boardgame1](image/bg2.jpg)
 
-**Activity Video 🎥**  
-
-
-[![GamePlay_video](image/bg1.jpg)]([https://drive.google.com/file/d/16rswN4bMRxtHUwdDxDeQdjsgE-Ay3gXS/view?usp=sharing(https://drive.google.com/file/d/1py-ach2R5RrQxGjX3tLlwNeVtJbdZ4fw/view?usp=sharing))
+[**Activity Video 🎥**  ](https://drive.google.com/file/d/1py-ach2R5RrQxGjX3tLlwNeVtJbdZ4fw/view?usp=sharing)
 
 
 **Group 🤼** 
-- [1. kiadtiyod hongglin](https://ProfesserSwitch.github.io/board-game) 
-- [2. ](https://name/board-game) 
-- [3. ](https://name/board-game) 
-- [4. ](https://name/board-game) 
-- [5. ](https://name/board-gamee) 
-- [6. Phatsagon Teerarujinon](https://phatsagon.github.io/board-game) 
+- 1.[ kiadtiyod hongglin 6530250026 ](https://ProfesserSwitch.github.io/board-game) 
+- 2.[ enter name ](https://name/board-game) 
+- 3.[ enter name ](https://name/board-game) 
+- 4.[ enter name ](https://name/board-game) 
+- 5.[ enter name ](https://name/board-gamee) 
