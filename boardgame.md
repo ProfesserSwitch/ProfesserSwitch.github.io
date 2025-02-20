@@ -25,11 +25,15 @@
 **Activity Pictures 🖼️**  
 
 
-![Group_Boardgame1](image/bg1.jpg)
+![pic1](image/bg1.png)
 
-![Group_Boardgame1](image/bg2.jpg)
+![pic2](image/bg2.png)
 
-[**Activity Video 🎥**  ](https://drive.google.com/file/d/1py-ach2R5RrQxGjX3tLlwNeVtJbdZ4fw/view?usp=sharing)
+![pic3](image/bg3.png)
+
+**Activity Video** 🎥
+
+[![pic4](image/bg4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
 
 
 **Group 🤼** 
